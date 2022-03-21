@@ -1,15 +1,23 @@
 ## Olá! Meu nome é Nívia :)
-- 🔭 Atualmente eu trabalho com Front-end
-- 🌱 Estudando Typescript
-- 😄 Pronomes: Ela/Dela
-
 <div>
+    <img align="right" height="700" src="https://raw.githubusercontent.com/gist/niviaaraujo/0592d3aa2443b20832ae8ff61e9584ba/raw/9e5a2e9b8ada9222a27b58a338f9a24d19340963/githubcard.svg">
+ </div> <!--Imagem Cartão-->
+
+- 🔥 Desenvolvedora Web & Designer Gráfica
+- 📚 Estudante de Ciência da Computação na <a href="https://www.unipe.edu.br/na_imprensa/cruzeiro-do-sul-educacional-anuncia-aquisicao-de-instituicoes-no-sul-do-pais/"> Centro Universitário Unipê </a>
+- 🤝 Vamos interagir! 
+- ✨ The sun will rise, and we will try again :)
+
+<div> <br>
+  
   <a href="https://github.com/niviaaraujo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niviaaraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niviaaraujo&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niviaaraujo&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niviaaraujo&layout=compact&langs_count=16&theme=swift"/>
+   
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="git-nini" height="150" width="150" src="https://s7.gifyu.com/images/ezgif.com-gif-maker3c713f7f7852fec4.gif"> <!-imagem gif-->
+  <img align="center" alt="git-test" height="100" width="200" src="https://i.ibb.co/cJ0CZ19/git-test.png"> <!-imagem gif--> <br>
+  <br>
   <img align="center" alt="git-aftereffects" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
   <img align="center" alt="git-ps" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="git-illustrator" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
@@ -17,7 +25,6 @@
   <img align="center" alt="git-html" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="git-javascript" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="git-react" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
- 
 </div>
  
 ##
