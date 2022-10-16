@@ -1,37 +1,53 @@
-## Olá! Meu nome é Nívia :)
-<div>
-    <img align="right" height="700" src="https://raw.githubusercontent.com/gist/niviaaraujo/0592d3aa2443b20832ae8ff61e9584ba/raw/9e5a2e9b8ada9222a27b58a338f9a24d19340963/githubcard.svg">
- </div> <!--Imagem Cartão-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header"/>
 
-- 🔥 Desenvolvedora Web & Designer Gráfica
-- 📚 Estudante de Ciência da Computação na <a href="https://www.unicid.edu.br"> Centro Universitário de São Paulo </a>
-- 🤝 Vamos interagir! 
-- ✨ The sun will rise, and we will try again :)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Nívia+Araújo;I'm+20+years+old;I'm+from+São+Paulo,+SP;I+study+Computer+Science+at+UNICID;Be+welcome!+:%29)](https://git.io/typing-svg)
 
-<div> <br>
-  
-  <a href="https://github.com/niviaaraujo">
-    <img height="153em" src="https://github-readme-stats.vercel.app/api?username=niviaaraujo&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niviaaraujo&layout=compact&langs_count=16&theme=swift"/>
-   
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=niviaaraujo&theme=gotham&title_color=00bfbf&&bg_color=0d1117" alt="Nívia Araújo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niviaaraujo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="git-test" height="100" width="200" src="https://i.ibb.co/cJ0CZ19/git-test.png"> <!-imagem gif--> <br>
-  <br>
-  <img align="center" alt="git-aftereffects" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
-  <img align="center" alt="git-ps" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="git-illustrator" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-  <img align="center" alt="git-python" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
-  <img align="center" alt="git-html" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="git-javascript" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="git-react" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</div>
- 
-##
-<div>
-  <a href="https://www.linkedin.com/in/nívia-araújo" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
-  <a href="mailto:niviadelimaaraujo@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <target="_blank"> </a>
 
- 
-<div>
- 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=niviaaraujo&text_color=00bfbf&title_color=00bfbf&theme=gotham&bg_color=0d1117&hide_border=true&area=true)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=niviaaraujo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/nivia-araujo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.instagram.com/_niviaaraujo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</p> 
+    
+### Main Skills:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+    
+### Other Knowledge:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+
+### Studying in this moment:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp; 
+    
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{niviaaraujo}/count.svg" /></p> 
+<br></div>
+    
+<div align="center">
+  <a href="https://1999azzar.github.io/niviaaraujo/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+    
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
