@@ -4,7 +4,7 @@
  </div> <!--Imagem Cartão-->
 
 - 🔥 Desenvolvedora Web & Designer Gráfica
-- 📚 Estudante de Ciência da Computação na <a href="https://www.unipe.edu.br/na_imprensa/cruzeiro-do-sul-educacional-anuncia-aquisicao-de-instituicoes-no-sul-do-pais/"> Centro Universitário Unipê </a>
+- 📚 Estudante de Ciência da Computação na <a href="https://www.unipe.edu.br/na_imprensa/cruzeiro-do-sul-educacional-anuncia-aquisicao-de-instituicoes-no-sul-do-pais/"> Centro Universitário de São Paulo </a>
 - 🤝 Vamos interagir! 
 - ✨ The sun will rise, and we will try again :)
 
